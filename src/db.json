@@ -1,0 +1,190 @@
+
+{
+    "blogPosts": [
+      {
+        "id": 1,
+        "title": "React is Awesome",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam efficitur sagittis aliquet. Proin sit amet fringilla mi. Integer ac dui id metus fermentum cursus. Aliquam erat volutpat. Suspendisse potenti. Sed sit amet libero nec mauris ultricies laoreet in eu risus. Sed ut metus ut est volutpat malesuada vel ac dolor. Ut vestibulum fermentum magna vel egestas. Nam malesuada turpis a ante hendrerit tincidunt. Nam vel volutpat eros. Donec euismod mi ut congue efficitur. Sed ullamcorper nisi et elit varius bibendum. Integer condimentum dignissim dolor, sit amet congue purus ultricies a. Fusce vel diam ac libero ultrices tincidunt. Vivamus vel risus mi. Vestibulum congue odio a quam volutpat egestas. Cras gravida, felis nec lacinia pulvinar, arcu nunc malesuada ipsum, eu scelerisque lectus tellus a enim. Donec in odio ex. In hac habitasse platea dictumst.",
+        "likes": 15,
+        "comments": [
+          {
+            "id": 101,
+            "user": "JohnDoe",
+            "text": "Great post!",
+            "timestamp": "2024-01-25T12:30:00Z"
+          },
+          {
+            "id": 102,
+            "user": "JaneSmith",
+            "text": "I learned a lot, thanks!",
+            "timestamp": "2024-01-25T13:15:00Z"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Getting Started with Node.js",
+        "content": "Node.js is a powerful JavaScript runtime. Sed ut fringilla mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed eu justo quam. Maecenas venenatis nulla sed justo tincidunt, a dictum tortor malesuada. Sed efficitur, ligula et fermentum bibendum, justo arcu consequat purus, id ultrices justo ligula ut quam. Vestibulum lacinia semper erat, a fermentum nisi iaculis nec. Sed malesuada, odio vitae fermentum sollicitudin, arcu urna efficitur elit, eu tristique ipsum odio vel sapien. Nam ac dolor vel purus dictum aliquet ac ac justo. Praesent fringilla elit in elit consequat, vel tincidunt urna tristique. Vestibulum tempus lacinia justo vel tincidunt. Sed hendrerit nunc vitae laoreet iaculis. Proin vel tortor et nisi viverra commodo vel ac arcu. Fusce dapibus turpis sed metus vestibulum, nec aliquet dui auctor. Aliquam vel tristique ex.",
+        "likes": 20,
+        "comments": [
+          {
+            "id": 201,
+            "user": "AliceJohnson",
+            "text": "Node.js is a game-changer!",
+            "timestamp": "2024-01-25T14:00:00Z"
+          },
+          {
+            "id": 202,
+            "user": "BobMiller",
+            "text": "I have been using Node.js for years. It's fantastic!",
+            "timestamp": "2024-01-25T14:45:00Z"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Learning Python Basics",
+        "content": "Python is a versatile programming language. Sed non libero quis elit convallis pellentesque. Sed eu urna sed purus mattis euismod. Sed a mauris tortor. Curabitur ac tellus in mi fringilla sodales. Curabitur facilisis tortor eu augue malesuada, a laoreet mauris hendrerit. Aenean tincidunt erat vitae hendrerit facilisis. Fusce eget augue nec orci venenatis malesuada. Fusce ullamcorper sem in ex efficitur, nec facilisis ligula semper. Fusce volutpat ligula vel sagittis ultricies. Ut tristique feugiat nibh vel consectetur. Integer venenatis erat a fringilla fringilla.",
+        "likes": 12,
+        "comments": [
+          {
+            "id": 301,
+            "user": "CharlieBrown",
+            "text": "Python's simplicity is its strength!",
+            "timestamp": "2024-01-25T15:30:00Z"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Web Development Trends in 2024",
+        "content": "Stay updated with the latest trends in web development. Fusce vel felis id ipsum tincidunt finibus vel vel turpis. Nam vestibulum vulputate consectetur. Vestibulum id volutpat eros. Fusce finibus tellus ut metus consequat, vel varius ligula blandit. Pellentesque ac justo eu dui commodo malesuada. Sed in turpis a magna feugiat tincidunt ut sit amet dui. Praesent vehicula, odio vel volutpat ullamcorper, nunc lacus facilisis libero, vitae tempus velit velit vel odio. Sed vel tortor auctor, bibendum justo nec, fermentum elit. In hac habitasse platea dictumst.",
+        "likes": 25,
+        "comments": [
+          {
+            "id": 401,
+            "user": "EvaWilliams",
+            "text": "Exciting times ahead for web developers!",
+            "timestamp": "2024-01-25T16:15:00Z"
+          },
+          {
+            "id": 402,
+            "user": "DavidSmith",
+            "text": "Can't wait to explore the new trends!",
+            "timestamp": "2024-01-25T17:00:00Z"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Introduction to Machine Learning",
+        "content": "Machine Learning is a fascinating field. Integer non mi id elit pulvinar consectetur nec vel quam. Suspendisse at aliquam odio. Sed vitae ipsum velit. Nunc convallis ante ut urna accumsan, quis tempus justo posuere. Nullam vel lacinia elit. Sed viverra justo in nisl efficitur congue. Donec volutpat massa ut magna interdum, vel tristique sapien fermentum. Phasellus vestibulum mauris at enim volutpat volutpat. Aliquam bibendum volutpat ex eu scelerisque. Fusce quis tincidunt velit. Phasellus id enim vel purus dictum consectetur. Aliquam vulputate a elit id facilisis. Integer ut erat nec odio dictum rhoncus nec vel lectus. Curabitur aliquam nec justo at tempus. Vestibulum bibendum tellus id nunc fringilla, eu tincidunt tortor ullamcorper. Sed a malesuada mi.",
+        "likes": 18,
+        "comments": [
+          {
+            "id": 501,
+            "user": "GraceLee",
+            "text": "Machine Learning is changing the world!",
+            "timestamp": "2024-01-25T17:45:00Z"
+          },
+          {
+            "id": 502,
+            "user": "JamesWong",
+            "text": "Impressive insights into ML concepts.",
+            "timestamp": "2024-01-25T18:30:00Z"
+          },
+          {
+            "id": 503,
+            "user": "SophiaGarcia",
+            "text": "This post motivated me to dive deeper into ML.",
+            "timestamp": "2024-01-25T19:00:00Z"
+          },
+          {
+            "id": 504,
+            "user": "AlexMiller",
+            "text": "Fantastic introduction to the world of Machine Learning!",
+            "timestamp": "2024-01-25T19:30:00Z"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Deep Dive into Frontend Frameworks",
+        "content": "Frontend frameworks play a crucial role in modern web development. Sed at ligula ac lectus consequat facilisis. Nulla facilisi. Curabitur at libero nec ligula congue euismod eu at leo. Mauris vulputate, odio ut accumsan sagittis, nunc orci ultrices dolor, ut consequat justo orci non mi. Phasellus malesuada, turpis vel gravida convallis, orci neque pellentesque mauris, eu fringilla metus dolor vitae nunc. In hac habitasse platea dictumst.",
+        "likes": 22,
+        "comments": [
+          {
+            "id": 601,
+            "user": "EmilyWilson",
+            "text": "This post is a gem! Thanks for the insights.",
+            "timestamp": "2024-01-25T20:00:00Z"
+          },
+          {
+            "id": 602,
+            "user": "DanielBrown",
+            "text": "I appreciate the detailed breakdown of frontend frameworks.",
+            "timestamp": "2024-01-25T20:30:00Z"
+          },
+          {
+            "id": 603,
+            "user": "MiaDavis",
+            "text": "Great job in explaining complex concepts!",
+            "timestamp": "2024-01-25T21:00:00Z"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Mastering Backend Technologies",
+        "content": "Backend technologies are the backbone of robust web applications. Integer non metus vel libero lacinia tincidunt. In sit amet feugiat elit, nec cursus nisi. Vestibulum eu tincidunt ipsum, nec interdum nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam volutpat purus at nunc tincidunt, a tristique risus iaculis. Nam auctor, quam nec consectetur sodales, dolor libero malesuada elit, vitae pulvinar dolor quam vel nisi. Vestibulum sit amet feugiat nunc. Vestibulum nec congue libero. Suspendisse ut felis et libero iaculis tempus.",
+        "likes": 30,
+        "comments": [
+          {
+            "id": 701,
+            "user": "OliverSmith",
+            "text": "Backed technologies are indeed fascinating!",
+            "timestamp": "2024-01-25T21:30:00Z"
+          },
+          {
+            "id": 702,
+            "user": "AvaJohnson",
+            "text": "This post inspired me to dive deeper into backend development.",
+            "timestamp": "2024-01-25T22:00:00Z"
+          },
+          {
+            "id": 703,
+            "user": "LiamJones",
+            "text": "Excellent overview of backend technologies!",
+            "timestamp": "2024-01-25T22:30:00Z"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "The Art of UI/UX Design",
+        "content": "UI/UX design is a blend of creativity and functionality. Nam viverra risus id sem malesuada, eu dapibus felis tincidunt. Nulla facilisi. Phasellus venenatis nunc in hendrerit efficitur. Sed tristique, nisl eu tristique volutpat, massa est viverra dui, at congue quam ex vel justo. Sed bibendum euismod orci, ut fermentum ex laoreet vel. Quisque tristique fermentum turpis, vel aliquam elit posuere ut. Praesent sit amet dictum elit. Sed vel ex a tortor euismod gravida. Fusce fringilla dolor at varius hendrerit. Sed vulputate luctus mi at scelerisque.",
+        "likes": 28,
+        "comments": [
+          {
+            "id": 801,
+            "user": "SophieAnderson",
+            "text": "UI/UX design is a fascinating field!",
+            "timestamp": "2024-01-25T23:00:00Z"
+          },
+          {
+            "id": 802,
+            "user": "EthanWhite",
+            "text": "Great insights into the principles of UI/UX.",
+            "timestamp": "2024-01-25T23:30:00Z"
+          },
+          {
+            "id": 803,
+            "user": "ZoeHall",
+            "text": "This post motivated me to pursue a career in UI/UX design.",
+            "timestamp": "2024-01-26T00:00:00Z"
+          }
+        ]
+      }
+    ]
+  }
+  
